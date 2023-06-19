@@ -2,7 +2,7 @@
 
 ## Como rodar o projeto na sua máquina:
 
-- Clone o projeto `git clone git@github.com:JuanSgarbi/desafio-backendjr-1.git`
+- Clone o projeto `git clone git@github.com:JuanSgarbi/teste-laravel-front.git`
 
 ## Abra o diretório FrontEnd/teste-byecar:
 
